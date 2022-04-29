@@ -5,7 +5,7 @@ All source code of our projects, frameworks and libraries is versioned and manag
 
 ## Contact
 
-If you found a bug, please report it in our [Discord](https://dc.teamholy.de) or [Forum](https://forum.teamholy.de)
+If you found a bug, please report it on our [Discord](https://dc.teamholy.de) or [Forum](https://forum.teamholy.de)
 
 Development Leader: [Koboo](https://github.com/Koboo)
 
