@@ -11,4 +11,4 @@ Development Leader: [Koboo](https://github.com/Koboo)
 
 Development Owner: [Yassino](https://github.com/Ya55in0)
 
-[TeamHoly.de](https://teamholy.de)
+Website: [teamholy.de](https://teamholy.de)
